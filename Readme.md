@@ -17,7 +17,7 @@
 >**NOTE**: We encourage our Entity Framework 6 (EF 6) users to consider Entity Framework Core (EF Core) for new XAF's Blazor and WinForms .NET Core projects.
 Microsoft has moved EF 6 into maintenance mode, and as such, EF 6 will not mirror XAF’s .NET 5+ offering. At present, EF Core supports key XAF technologies/capabilities including advanced security and comprehensive audit trail support. EF Core also offers better performance when compared to EF 6. For more information, see [Porting from EF 6 to EF Core](https://docs.microsoft.com/en-us/ef/efcore-and-ef6/porting/) | [XAF Business Model Design with Entity Framework Core](https://docs.devexpress.com/eXpressAppFramework/401886/business-model-design-orm/business-model-design-with-entity-framework-core).
 
-<p>The complete description is available in the <a href="http://documentation.devexpress.com/#Xaf/CustomDocument3466"><u>How to: Use the Entity Framework Code 6 First in XAF</u></a> topic.</p><br />
+<p>The complete description is available in the <a href="https://docs.devexpress.com/eXpressAppFramework/113444/business-model-design-orm/business-model-design-with-entity-framework-6/how-to-use-the-entity-framework-6-model-first-in-xaf?v=21.2"><u>How to: Use the Entity Framework Code 6 First in XAF</u></a> topic.</p><br />
 
 
 <br/>
